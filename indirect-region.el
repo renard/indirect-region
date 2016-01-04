@@ -3,7 +3,8 @@
 ;; Copyright © 2012 Sébastien Gross <seb•ɑƬ•chezwam•ɖɵʈ•org>
 
 ;; Author: Sébastien Gross <seb•ɑƬ•chezwam•ɖɵʈ•org>
-;; Keywords: emacs, 
+;; Version: 0.0.1.20120124
+;; Keywords: emacs
 ;; Created: 2012-01-24
 ;; Last changed: 2012-01-24 19:40:20
 ;; Licence: WTFPL, grab your copy here: http://sam.zoy.org/wtfpl/
@@ -59,3 +60,5 @@ If called with `universal-argument', ask for a specific mode."
 
 
 (provide 'indirect-region)
+
+;;; indirect-region.el ends here
