@@ -60,3 +60,5 @@ If called with `universal-argument', ask for a specific mode."
 
 
 (provide 'indirect-region)
+
+;;; indirect-region.el ends here
